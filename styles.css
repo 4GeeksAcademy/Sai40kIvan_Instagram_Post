@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+div.post{
+    background-color: lightgrey;
+    height:500px;
+    width:400px;
+    margin:auto;
+
+}
+div.header{
+    width:100%;
+    height: 50px;
+    
+    padding: 5px;
+    
+}
+div.header .icon,div.header .user, div.header .options {
+    display:inline-block;
+    height: 30px;
+    background-color: lightgrey;
+}
+div.header .user{
+    width:70%;
+}
+div.header .icon, div.header .options{
+    width:10%;
+    
+    
+}
